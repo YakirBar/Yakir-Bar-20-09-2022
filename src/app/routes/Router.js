@@ -14,9 +14,9 @@ const Router = (props) => {
     return (
         <Routes>
             <Route path="*" element={<Unauthorized />} />
-            <Route path="https://yakirbar.github.io/WeatherApp" element={<Search {...props} />} />
-            <Route path="https://yakirbar.github.io/WeatherApp/favorites" element={<Favorites {...props} />} />
-            <Route path="https://yakirbar.github.io/WeatherApp/:localizedName" element={<Details {...props} />} />
+            <Route path="/WeatherApp" element={<Search {...props} />} />
+            <Route path="/WeatherApp/favorites" element={<Favorites {...props} />} />
+            <Route path="/WeatherApp/:localizedName" element={<Details {...props} />} />
         </Routes>
     );
 };
