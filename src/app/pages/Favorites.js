@@ -51,7 +51,7 @@ const Favorites = ({ t, setErrMessage }) => {
                             elevation={4}
                             sx={{ p: 2 }}
                             className='cursor-pointer'
-                            onClick={() => navigate(`https://yakirbar.github.io/Yakir-Bar-20-09-2022/${favorite?.LocalizedName}`, { state: { key: parseInt(favorite?.Key), name: favorite?.LocalizedName } })}>
+                            onClick={() => navigate(`/WeatherApp/${favorite?.LocalizedName}`, { state: { key: parseInt(favorite?.Key), name: favorite?.LocalizedName } })}>
                             <Box className='flex items-center justify-between '>
                                 <Typography variant='h5'>
                                     {metric ?
