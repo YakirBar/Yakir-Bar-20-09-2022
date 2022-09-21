@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://YakirBar.github.io/WeatherApp",
+  "homepage": "https://yakirbar.github.io/Yakir-Bar-20-09-2022",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,6 @@
     "@mui/material": "^5.10.5",
     "@reduxjs/toolkit": "^1.8.5",
     "axios": "^0.27.2",
-    "gh-pages": "^4.0.0",
     "i18next": "^21.9.2",
     "lottie-web": "^5.9.6",
     "moment": "^2.29.4",
@@ -47,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
