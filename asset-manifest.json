@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Yakir-Bar-20-09-2022/static/css/main.97be2451.css",
-    "main.js": "/Yakir-Bar-20-09-2022/static/js/main.0ee30d8d.js",
+    "main.js": "/Yakir-Bar-20-09-2022/static/js/main.113811cb.js",
     "index.html": "/Yakir-Bar-20-09-2022/index.html",
     "main.97be2451.css.map": "/Yakir-Bar-20-09-2022/static/css/main.97be2451.css.map",
-    "main.0ee30d8d.js.map": "/Yakir-Bar-20-09-2022/static/js/main.0ee30d8d.js.map"
+    "main.113811cb.js.map": "/Yakir-Bar-20-09-2022/static/js/main.113811cb.js.map"
   },
   "entrypoints": [
     "static/css/main.97be2451.css",
-    "static/js/main.0ee30d8d.js"
+    "static/js/main.113811cb.js"
   ]
 }
