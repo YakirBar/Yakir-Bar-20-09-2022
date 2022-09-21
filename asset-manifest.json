@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Yakir-Bar-20-09-2022/static/css/main.97be2451.css",
-    "main.js": "/Yakir-Bar-20-09-2022/static/js/main.7597e49e.js",
-    "index.html": "/Yakir-Bar-20-09-2022/index.html",
-    "main.97be2451.css.map": "/Yakir-Bar-20-09-2022/static/css/main.97be2451.css.map",
-    "main.7597e49e.js.map": "/Yakir-Bar-20-09-2022/static/js/main.7597e49e.js.map"
+    "main.css": "/WeatherApp/static/css/main.97be2451.css",
+    "main.js": "/WeatherApp/static/js/main.7597e49e.js",
+    "index.html": "/WeatherApp/index.html",
+    "main.97be2451.css.map": "/WeatherApp/static/css/main.97be2451.css.map",
+    "main.7597e49e.js.map": "/WeatherApp/static/js/main.7597e49e.js.map"
   },
   "entrypoints": [
     "static/css/main.97be2451.css",
